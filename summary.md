@@ -7,7 +7,7 @@ SW 중심대학 신청을 위한  요약 레포지토리입니다.
 
 - [알고리즘](https://github.com/LJBang/KNU_Algorithm) 2020-1학기 수강완료  
 - [운영체제](https://github.com/LJBang/KNU_OS) 2020-1학기 수강완료  
-- [데이타통신](./class/Datacomm/DataComm.md) 2020-2학기 수강중  
+- [데이타통신](./class/Datacomm/dataComm.md) 2020-2학기 수강중  
 - [컴퓨터구조](./class/Com_arch/Com_arch.md) 2020-2학기 수강중  
 
 ### 경진대회형  
